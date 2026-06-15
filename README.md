@@ -22,13 +22,7 @@ Each application can take about 2–3 minutes to fill out because of these issue
 
 ## Overview
 
-<figure>
-  <a href="https://github.com/ubangura/Workday-Application-Automator/assets/110050333/758743e3-fa8b-4c1a-9400-4da079f6d710">Workday Application Automator Demo</a>
-  <video controls width="720">
-    <source src="https://github.com/ubangura/Workday-Application-Automator/assets/110050333/758743e3-fa8b-4c1a-9400-4da079f6d710" type="video/mp4" />
-    Your browser does not support HTML5 video.
-  </video>
-</figure>
+https://github.com/ubangura/Workday-Application-Automator/assets/110050333/758743e3-fa8b-4c1a-9400-4da079f6d710
 
 ## Getting Started Guide
 
